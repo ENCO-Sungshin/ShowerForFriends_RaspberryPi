@@ -2,16 +2,16 @@
 자이로 센서로 기울기를 측정하여 물 사용량을 계산하고 중앙 서버로 데이터를 전송하는 시스템
 <br/>
 <br/>
-## 📽️ 시스템 요약도
-<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190562755-92c56fbc-e09d-4f61-abb3-c45cf322ce96.png" width="800" height="480"/></p>
+## 📽️ 전체 시스템 요약도
+<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190562755-92c56fbc-e09d-4f61-abb3-c45cf322ce96.png"  width="60%" height="45%"/></p>
 <br/><br/>
 
 ## 🖥️ 라즈베리파이 시스템 요약도
-<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190565443-242b0d07-9a77-4bc1-8f57-151aa6fdbfc1.png" width="500" height="480"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190565443-242b0d07-9a77-4bc1-8f57-151aa6fdbfc1.png"  width="60%" height="45%"/></p>
 <br/><br/>
 
 ## ⛓️ 라즈베리파이 - 중앙 서버 통신 
-<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190565835-6011d855-f69d-44d7-a3da-a8dd78f33797.png" width="800" height="440"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/68148196/190565835-6011d855-f69d-44d7-a3da-a8dd78f33797.png"  width="60%" height="40%"/></p>
 <br/><br/>
 
 ## 🕹️ 구현
